@@ -1,10 +1,7 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://lighthearted-monstera-c6019a.netlify.app//" target="_blank">soumyajit.tech</a>
+  <a href="https://lighthearted-monstera-c6019a.netlify.app//" target="_blank">rocky.rf</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
 <br/>
 
@@ -20,14 +17,14 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/IsmailPR03/My-portfolio2.0">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/IsmailPR03/My-portfolio2.0">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [IsmailPR03](https://github.com/IsmailPR03/My-portfolio2.0). Thanks!
 
 ## Built With
 
