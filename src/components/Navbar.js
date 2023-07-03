@@ -97,7 +97,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://soumyajitblogs.vercel.app/"
+                href="https://lighthearted-monstera-c6019a.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -107,7 +107,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/soumyajit4419/Portfolio"
+                href="https://github.com/IsmailPR03/My-portfolio2.0"
                 target="_blank"
                 className="fork-btn-inner"
               >
